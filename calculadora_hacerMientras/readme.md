@@ -22,7 +22,7 @@ Algoritmo simpleCalcDoWhile
 					Imprimir 'Resultado: ' + ConvertirATexto(n1 / n2)
 			Fin Segun
 		SiNo
-			Imprimir '⚠️ La operación no es valida'
+			Imprimir '?? La operación no es valida'
 		FinSi
 
 		Imprimir 'Deseas continuar con otra operacion ? Si / No'
