@@ -1,4 +1,5 @@
 Algoritmo simpleCalcSegun
+
 	Imprimir '======= Simple Calculator ======='
 	Imprimir 'Ingrese primer numero'
 	Leer n1
