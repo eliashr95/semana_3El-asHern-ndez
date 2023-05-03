@@ -1,4 +1,5 @@
 Algoritmo multiOpcion
+
 	Imprimir '======= Multi Opcion ======='
 	Imprimir 'Opciones Disponibles'
 	Imprimir '1. Sumar de dos numeros'
