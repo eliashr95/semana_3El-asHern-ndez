@@ -1,4 +1,5 @@
 Algoritmo specialNumber
+
 	Leer n
 	Si n == 100 Entonces
 		Imprimir 'This is a special number'
